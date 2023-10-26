@@ -1,5 +1,5 @@
-# Project 1
-Hospital Charges Analysis in Excel
+# Project 1 - Hospital Charges Analysis in Excel
+
 🎯Goal: 
 My aim for this project was to identify the most expensive treatments, their geographic distribution, and the implications for healthcare accessibility and affordability.
 
@@ -11,8 +11,8 @@ My aim for this project was to identify the most expensive treatments, their geo
 💡Conclusion: 
 The findings have raised important questions about healthcare pricing and fairness.
 
-# Project 2
-Stock Prices Analysis of Apple, Microsoft, and Tesla in Excel
+# Project 2 - Stock Prices Analysis of Apple, Microsoft, and Tesla in Excel
+
 🎯Goal: 
 In this project, I've dived into the historical daily stock prices of Apple, Microsoft, and Tesla from January 2018 to January 2023, aiming to uncover patterns and insights for investors.
 
@@ -24,8 +24,7 @@ In this project, I've dived into the historical daily stock prices of Apple, Mic
 📊 Data Source: 
 Extracted from the website Yahoo Finance, it covers daily stock prices from Apple, Microsoft, Tesla and the Benchmark Index (S&P 500) from 2018 to 2023.
 
-# Project 3
-Exploratory Data Analysis for Credit Risk Assessment in Python
+# Project 3 - Exploratory Data Analysis for Credit Risk Assessment in Python
 
 🎯Goal: 
 Conducted Exploratory Data Analysis to identify key patterns and variables for potential loan repayment challenges, aiding in risk assessment and informed decision-making on loan approvals, amounts, and interest rates.
@@ -39,8 +38,7 @@ Conducted Exploratory Data Analysis to identify key patterns and variables for p
 - Application Data: 307,511 unique ID numbers, 124 features, covering diverse client demographics and financial details.
 - Previous Application Data: Rich insights into previous financial information, including product types, annuity and credit amounts, application timing, flags indicating status, and more.
 
-# Project 4
-Indian Premier League Data Analysis in Tableau
+# Project 4 - Indian Premier League Data Analysis in Tableau
 
 🎯Goal:
 As a data analyst at Indian Premier League (IPL), I crafted interactive Tableau dashboards showcasing key statistics from the league's inception in 2008 to 2017. The dashboards created offer a comprehensive view of IPL's evolution of match outcomes, player's performances and team dynamics,
